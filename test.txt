@@ -1,1 +1,3 @@
-Git is Amazing
+Git is Good
+
+Kunal Teaching is Excellent
